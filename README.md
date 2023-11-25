@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KillerSiddiq
+- 👋 Hi, I’m @Shaik.Siddiq Ahmed
 - 👀 I’m interested in python
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on anything which i know
