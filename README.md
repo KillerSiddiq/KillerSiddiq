@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shaik.Siddiq Ahmed
-- 👀 I’m interested in python
-- 🌱 I’m currently learning SQL
+- 👀 I’m a powerbi developer
+- 🌱 I’m currently learning Data Bricks
 - 💞️ I’m looking to collaborate on anything which i know
 - 📫 How to reach me on sksiddiqahmed143@gmail.com
 <!---
